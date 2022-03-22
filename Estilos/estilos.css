@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@700&display=swap');
+body{
+    background-attachment: white;
+    font-family: 'Red Hat Mono', monospace;
+}
+h1{
+    color:cornflowerblue;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    background-color:#ee171f ;
+    color:white;
+    padding:10px;
+    margin: 10px;
+    font-weight: bold;
+    border-radius: 6px;
+    transition: 0.5s;
+}
+a:hover{
+    background-color: #ee171f;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: 0.5s;
+}
